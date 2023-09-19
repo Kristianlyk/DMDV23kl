@@ -1,2 +1,3 @@
 # DMDV23kl
-First repos..
+This is my first repository.
+I am looking forward to learning more.
